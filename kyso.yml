@@ -1,7 +1,7 @@
 main: "Bookstore_income_template.ipynb"
 preview: "image/image024.png"
 title: "Analysis between certain bookstores in london"
-description: "A project using an template idea"
+description: "A project using a template idea"
 tags:
     - template
     - project
